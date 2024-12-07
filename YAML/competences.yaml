@@ -1,0 +1,26 @@
+domaines:
+  - dev:
+    - item: 
+      niveau: 
+    - item: 
+      niveau: 
+  - reseau:
+    - item: 
+      niveau: 
+    - item: 
+      niveau:
+  - bureautique:
+    - item: 
+      niveau: 
+    - item: 
+      niveau:
+  - langues:
+    - item: Français
+      niveau: 5
+    - item: Anglais
+      niveau: 5
+    - item: Allemand
+      niveau: 3.5
+    - item: Espagnol
+      niveau: 1
+    
