@@ -1,7 +1,7 @@
 /* Try looking in this bit of css for colors/inspo: https://github.com/alphapapa/solarized-everything-css/blob/master/css/solarized-dark/solarized-dark-all-sites.css */
 
 
-header {
+nav {
     position: fixed;
     top: 0px;
     display: flex;
@@ -9,7 +9,7 @@ header {
     /* same gradient as footer here too? */
 }
 
-header > li {
+nav > li {
     list-style-type: none;
 }
 

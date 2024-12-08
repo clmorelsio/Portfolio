@@ -9,15 +9,15 @@
 </head>
 
 <body>
-    <header>
-	<ul>
-		<li><a href="#accueil">ACCUEIL</a></li>
-		<li><a href="#competences">COMPETENCES</a></li>
-		<li><a href="#realisations">REALISATIONS</a></li>
-		<li><a href="#formation">FORMATION</a></li>
-		<li><a href="#contact">CONTACT</a></li>
-	</ul>
-    </header>
+    <nav>
+        <ul>
+            <li><a href="#accueil">ACCUEIL</a></li>
+            <li><a href="#competences">COMPETENCES</a></li>
+            <li><a href="#realisations">REALISATIONS</a></li>
+            <li><a href="#formation">FORMATION</a></li>
+            <li><a href="#contact">CONTACT</a></li>
+        </ul>
+    </nav>
 
     <main>
         <?php
