@@ -6,14 +6,20 @@ nav {
     top: 0px;
     display: flex;
     justify-content: flex-end;
-    /* same gradient as footer here too? */
+    background-image: linear-gradient(
+        105deg,
+        #294188,
+        #4fa4ca
+      );
 }
 
-nav > li {
+.menuList ul {
     list-style-type: none;
 }
 
-
+.menuList {
+    display: inline-block;
+}
 
 footer {
     display: flex;
