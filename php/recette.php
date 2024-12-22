@@ -1,7 +1,7 @@
 <?php
 
-require_once("yaml/yaml.php");
-$data=yaml_parse_file('recette.yaml');
+use Symfony\Component\Yaml\Yaml;
+$data=Yaml::parseFile('recette.yaml');
 //print_array($data);
 $compteurEtape=1;
 
